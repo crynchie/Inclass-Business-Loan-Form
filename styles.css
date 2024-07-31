@@ -54,14 +54,14 @@ button {
   padding: 10px;
   border: none;
   border-radius: 4px;
-  background-color: #28a745;
+  background-color: #3b707e;
   color: #fff;
   font-size: 16px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #218838;
+  background-color: #193b39;
 }
 
 .error {
